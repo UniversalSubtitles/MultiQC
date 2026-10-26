@@ -35,3 +35,4 @@ This module search for the file `.cnt` created by RSEM into directory named `PRE
 rsem:
   fn: '*.cnt'
 ```
+
